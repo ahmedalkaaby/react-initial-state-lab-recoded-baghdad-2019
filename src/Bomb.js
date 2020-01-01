@@ -19,3 +19,4 @@ export default class Bomb extends React.Component{
         <div>{Text}</div>
       )
     }
+}
